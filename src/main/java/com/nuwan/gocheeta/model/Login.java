@@ -2,7 +2,7 @@ package com.nuwan.gocheeta.model;
 
 /**
  *
- * @author manoj
+ * @author Nuwan
  */
 public class Login {
     private String username;
